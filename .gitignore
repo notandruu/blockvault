@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+typechain-types/
+artifacts/
+cache/
+.claude/
+coverage/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
