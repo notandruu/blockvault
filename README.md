@@ -4,7 +4,7 @@
 
 Lock USDC into an escrow — it deposits directly into Aave V3 on Base and earns interest until the release condition is met. Yield splits between sender and recipient at settlement. No idle capital.
 
-**Live:** [blockvault-io.vercel.app](https://blockvault-io.vercel.app)
+**Live:** [blockvault.fyi](https://blockvault.fyi)
 
 ---
 
