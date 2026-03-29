@@ -42,8 +42,8 @@ export default function DashboardPage() {
       <div className="w-1/2 relative">
         <Dithering
           style={{ height: "100%", width: "100%" }}
-          colorBack="hsl(0, 0%, 95%)"
-          colorFront="hsl(220, 100%, 70%)"
+          colorBack="hsl(20, 90%, 78%)"
+          colorFront="hsl(348, 80%, 62%)"
           shape="simplex"
           type="4x4"
           size={3}
