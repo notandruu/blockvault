@@ -27,7 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </nav>
             </div>
           </header>
-          <main className="max-w-4xl mx-auto px-4 py-8">{children}</main>
+          <main>{children}</main>
         </Web3Provider>
       </body>
     </html>

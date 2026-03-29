@@ -9,7 +9,7 @@ export default function EscrowPage() {
   const { address } = useParams<{ address: string }>();
 
   return (
-    <div className="space-y-6 max-w-xl">
+    <div className="max-w-4xl mx-auto px-4 py-8 space-y-6 max-w-xl">
       <div className="flex items-center gap-3">
         <Link
           href="/"

@@ -8,7 +8,7 @@ export default function HomePage() {
   const { isConnected } = useAccount();
 
   return (
-    <div className="space-y-8">
+    <div className="max-w-4xl mx-auto px-4 py-8 space-y-8">
       <div className="flex items-end justify-between">
         <div>
           <h1 className="text-2xl font-semibold text-gray-900">Your escrows</h1>

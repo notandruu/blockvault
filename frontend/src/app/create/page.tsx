@@ -7,7 +7,7 @@ export default function CreatePage() {
   const { isConnected } = useAccount();
 
   return (
-    <div className="space-y-6">
+    <div className="max-w-4xl mx-auto px-4 py-8 space-y-6">
       <div>
         <h1 className="text-2xl font-semibold text-gray-900">New escrow</h1>
         <p className="text-sm text-gray-400 mt-1">
